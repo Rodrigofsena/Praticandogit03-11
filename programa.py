@@ -21,3 +21,6 @@ elif idade <= 30:
     print("Sério, {}? Com {} anos, eu jurava que você era mais novo.".format(nome, idade))
 else:
     print("Nossa, Parabéns, {}! Com {} anos, você está bem conservado, esta com cara de ter 20.".format(nome, idade))
+
+
+## praticando o comando direto do repositorio online.
